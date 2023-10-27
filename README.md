@@ -1,5 +1,5 @@
 # GraphNeuralNetworkforSimilarityLearning
-FYP at UoL
+Final Year Project at UoL
 
 ## Requirements
 Pytorch =1.5,
@@ -12,3 +12,6 @@ six>=1.12
 
 ## Built on top of 
 https://github.com/Lin-Yijie/Graph-Matching-Networks
+
+## Poster
+![image](GNN.jpg)
